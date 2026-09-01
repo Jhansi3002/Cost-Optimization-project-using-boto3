@@ -26,6 +26,7 @@ Boto3	Python SDK used to interact with AWS services
 
 🏗️ Architecture
                    
+                   
                     AWS Cloud
                        |
                        v
@@ -45,7 +46,9 @@ Boto3	Python SDK used to interact with AWS services
              |
              v
        Stop Idle Instances
+
 ⚙️ Project Workflow
+
 Lambda Function
       |
       v
